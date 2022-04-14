@@ -14,3 +14,12 @@ pull=This command is used to upload content from the remote repository to the lo
 push=This command is used to load the contents of the local repository into the remote repository.</br>
 repository=A repository is a place where project content is stored.</br>
 stash=git stash is command that saves changes that are local and not commit.</br>
+
+
+
+***
+
+* **clone:** Duplicate of Remote Repository to Local Repository.
+* **rebae:** Allows Us Edit Our Past Commits and Combining Multiple Commits.
+* **cherrypick:** Allows us Get a Commit From Some Branch and Apply To Another Branches.
+~           
