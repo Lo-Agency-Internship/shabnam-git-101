@@ -1,7 +1,8 @@
 # git-101
 <b>this is my first git project<b></br>
-| <b>branch | When we build a new repository git, the master branch is created first and commits are applied to it. Creating new branches helps many people work on the same software at the same time and the master branch is not harmed.</br>
-check out=We use this command when we want to separate a branch and work on it.</br>
+  | :------------ |:---------------:|
+| <b>branch | When we build a new repository git, the master branch is created first and commits are applied to it. Creating new branches helps many people work on the same software at the same time and the master branch is not harmed. | 
+check out We use this command when we want to separate a branch and work on it.</br> |  
 commit=This command saves the staged changes of the project and does not change them by the git before that we use add command.</br>
 fastforward=It is one of the types of merging.When only one branch is separated from the master branch and the master branch itself has not changed compared to when a branch was separated, as when all changes have been made to one branch.</br>
 fetch=When we execute this command, the git takes the information from the repository, but the local version does not change anything.</br>
