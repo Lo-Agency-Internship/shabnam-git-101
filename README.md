@@ -20,8 +20,8 @@
 
 
 ***
-
-* **clone:** Duplicate of Remote Repository to Local Repository.
-* **rebae:** Allows Us Edit Our Past Commits and Combining Multiple Commits.
-* **cherrypick:** Allows us Get a Commit From Some Branch and Apply To Another Branches.
-~           
+| Words |  Describtion |
+| :------------ |:---------------:|
+|**clone:**| Duplicate of Remote Repository to Local Repository.|
+|**rebae:**| Allows Us Edit Our Past Commits and Combining Multiple Commits.|
+|**cherrypick:**| Allows us Get a Commit From Some Branch and Apply To Another Branches.|
