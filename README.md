@@ -1,12 +1,13 @@
 # git-101
 <b>this is my first git project<b></br>
+  | Words |  Explanation |
   | :------------ |:---------------:|
 | <b>branch | When we build a new repository git, the master branch is created first and commits are applied to it. Creating new branches helps many people work on the same software at the same time and the master branch is not harmed. | 
-check out We use this command when we want to separate a branch and work on it.</br> |  
-commit=This command saves the staged changes of the project and does not change them by the git before that we use add command.</br>
-fastforward=It is one of the types of merging.When only one branch is separated from the master branch and the master branch itself has not changed compared to when a branch was separated, as when all changes have been made to one branch.</br>
-fetch=When we execute this command, the git takes the information from the repository, but the local version does not change anything.</br>
-head=The head is the git method for pointing to the current Snapshot.</br>
+check out We use this command when we want to separate a branch and work on it |  
+commit=This command saves the staged changes of the project and does not change them by the git before that we use add command | 
+| fastforward | It is one of the types of merging.When only one branch is separated from the master branch and the master branch itself has not changed compared to when a branch was separated, as when all changes have been made to one branch. |
+| When we execute this command, the git takes the information from the repository, but the local version does not change anything.|
+head The head is the git method for pointing to the current Snapshot. |
 merge=to connect the forkes codes to master branch we can use git merge command.</br>
 remote=Remote repositories are a copy of the project. To work with others, ‌we need these repositories.</br>
 origin=When we clone a repository, the git gives the default origin name to the server from which it was cloned.</br>
